@@ -26,6 +26,12 @@ body {
     box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
+.quote-author {
+    margin-top: 15px;
+    font-size: 2rem;
+    font-weight: 600;
+    /* font-style: ; */
+}
 .quote-text {
     font-size: 2.75rem;
 }
@@ -36,13 +42,6 @@ body {
 
 .fa-quote-left {
     font-size: 4rem;
-}
-
-.quote-author {
-    margin-top: 15px;
-    font-size: 2rem;
-    font-weight: 400;
-    font-style: italic;
 }
 
 .button-container {
