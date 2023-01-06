@@ -21,9 +21,14 @@ body {
     width: auto;
     max-width: 900px;
     padding: 20px 30px;
-    border-radius: 10px;
+    border: solid 3px #6e7491;
+    border-top-left-radius: 37px 140px;
+    border-top-right-radius: 23px 130px;
+    border-bottom-left-radius: 110px 19px;
+    border-bottom-right-radius: 120px 24px;
     background-color: rgba(255, 255, 255, 0.4);
-    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 15px 8px -10px rgba(0, 0, 0, 0.3);
+    /* box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2); */
 }
 
 .quote-author {
